@@ -150,7 +150,7 @@ cv2.destoryAllWindows()
 
 
 ### v) Split and merge HSV Image
-![dor11](https://user-images.githubusercontent.com/93427253/228027410-092e693a-4c01-4492-a5d7-fe80394aff96.png)
+![dor12](https://user-images.githubusercontent.com/93427253/228028716-6ba931d2-cefa-4058-af4f-f60d71e4873f.png)
 
 
 ## Result:
