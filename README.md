@@ -118,31 +118,31 @@ cv2.destoryAllWindows()
 ![dor1](https://user-images.githubusercontent.com/93427253/228025717-eed8f074-00a5-4b5f-aa93-63890a7319ef.png)
 
 ### i) BGR and RGB to HSV and GRAY
-BGR TO HSV:
+### BGR TO HSV:
 ![dor2](https://user-images.githubusercontent.com/93427253/228026843-62811246-2628-48d4-9e68-29538008f20c.png)
 
-RGB TO HSV:
+### RGB TO HSV:
 ![dor3](https://user-images.githubusercontent.com/93427253/228026894-c23b4bb8-5044-4b50-911e-6557330e837c.png)
 
-BGR TO GRAY:
+### BGR TO GRAY:
 ![dor4](https://user-images.githubusercontent.com/93427253/228026949-c029cc5f-0e43-4cc3-a242-1bcfaf0c3708.png)
 
-RGB TO GRAY:
+### RGB TO GRAY:
 ![dor5](https://user-images.githubusercontent.com/93427253/228026992-10b789a2-a3ab-4fe4-81fe-f2a1a67829d4.png)
 
 ### ii) HSV to RGB and BGR
-HSV TO RGB:
+### HSV TO RGB:
 ![dor6](https://user-images.githubusercontent.com/93427253/228027066-c1c8c95a-2e2c-4b49-ae66-5fb2add4b28c.png)
 
-HSV TO BGR:
+### HSV TO BGR:
 ![dor7](https://user-images.githubusercontent.com/93427253/228027283-e7a7496e-0b65-490c-925b-3b7171583ead.png)
 
 
 ### iii) RGB and BGR to YCrCb
-RGB TO YCrCb:
+### RGB TO YCrCb:
 ![dor8](https://user-images.githubusercontent.com/93427253/228027312-1062da5d-b745-4758-ae55-47511c721d79.png)
 
-BGR TO YCrCb:
+### BGR TO YCrCb:
 ![dor9](https://user-images.githubusercontent.com/93427253/228027335-459d4ba8-972f-4835-9d6f-f4148b3cb7b5.png)
 
 ### iv) Split and merge RGB Image
